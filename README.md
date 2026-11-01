@@ -28,7 +28,7 @@ It shows 9 different types of flowers, each with its name and a picture, all org
 
 ## 🌈 How to see it
 
-✨ **Live page:** https://michaell2409.github.io/some flowers 🥺🌸🪷💮🌺🥀🌹
+✨ **Live page:** https://michaell2409.github.io/ flowers 🥺🌸🪷💮🌺🥀🌹
 
 Or download the files and open `index.html` in your browser~ ٩(◕‿◕)۶
 
